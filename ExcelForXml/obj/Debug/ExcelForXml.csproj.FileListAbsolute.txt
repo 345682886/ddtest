@@ -1,0 +1,10 @@
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\bin\Debug\ExcelForXml.exe.config
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\bin\Debug\ExcelForXml.exe
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\bin\Debug\ExcelForXml.pdb
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.csprojResolveAssemblyReference.cache
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.Form1.resources
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.Properties.Resources.resources
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.csproj.GenerateResource.Cache
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.csproj.CoreCompileInputs.cache
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.exe
+D:\pro\excelForXml\ExcelForXml\ExcelForXml\obj\Debug\ExcelForXml.pdb
